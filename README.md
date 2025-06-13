@@ -1,6 +1,5 @@
 # UAS Perancangan Web Kelas TI24SE3 Make a Open Payment Portal
-
-Foobar is a Python library for dealing with word pluralization.
+Membuat Sebuah SPA(single Page Apilcation) Untuk Portal Pembayaran Wifi 
 
 ## Installation
 
