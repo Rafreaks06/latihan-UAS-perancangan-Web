@@ -1,5 +1,5 @@
 # UAS Perancangan Web Kelas TI24SE3 Make a Open Payment Portal
-Membuat Sebuah SPA(single Page Apilcation) Untuk Portal Pembayaran Uang Kuliah Di Global Institute.
+Membuat Sebuah SPA(single Page Apilcation) Untuk Portal Pembayaran Tagihan Kuliah Di Global Institute.
 SPA adalah aplikasi yang bekerja di dalam browser yang tidak membutuhkan reload page saat digunakan.
 
 # 
