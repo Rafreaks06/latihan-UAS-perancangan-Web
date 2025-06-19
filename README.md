@@ -1,35 +1,55 @@
-# UAS Perancangan Web Kelas TI24SE3 Make a Open Payment Portal
-Membuat Sebuah SPA(single Page Apilcation) Untuk Portal Pembayaran Tagihan Kuliah Di Global Institute.
-SPA adalah aplikasi yang bekerja di dalam browser yang tidak membutuhkan reload page saat digunakan.
+# 🌐 UAS Perancangan Web Kelas TI24SE3  
+## 📄 Open Payment Portal — Global Institute
 
-# 
+Membuat sebuah **SPA (Single Page Application)** untuk **Portal Pembayaran Tagihan Kuliah** di **Global Institute**.  
+Aplikasi ini berjalan sepenuhnya di browser tanpa reload halaman, menggunakan HTML, JavaScript, dan TailwindCSS.
 
-```bash
-pip install foobar
-```
+---
 
-## Usage
+## 🎯 Fitur Utama
 
-```python
-import foobar
+- ✅ Formulir pembayaran tagihan kuliah dengan validasi
+- 💳 Dukungan berbagai metode pembayaran:
+  - Transfer Bank (Mandiri)
+  - E-Wallet (Gopay, Bank Jago, Sea Bank)
+  - Kartu Kredit
+  - Pemerintah
+  - Bayar Tunai
+- 🎟️ Dukungan kode promo (diskon tetap dan persentase)
+- 📊 Statistik real-time:
+  - Jumlah transaksi
+  - Total pendapatan
+  - Rata-rata pembayaran
+- 🌙 Toggle Dark Mode
+- 📃 Riwayat transaksi lokal
+- ✅ Modal konfirmasi pembayaran
 
-# returns 'words'
-foobar.pluralize('word')
+---
 
-# returns 'geese'
-foobar.pluralize('goose')
+## 🛠️ Teknologi yang Digunakan
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
-```
+- HTML5
+- TailwindCSS v3 (via CDN)
+- JavaScript (Modular Vanilla JS)
+- SPA tanpa backend (data disimpan sementara di memori browser)
 
-## Contributing
+---
 
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
+## 🚀 Cara Menjalankan
 
-Please make sure to update tests as appropriate.
+1. **Clone atau download proyek**
+2. **Buka file `index.html` di browser**
 
-## License
+Tidak membutuhkan server atau instalasi tambahan.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+---
+
+## 🔧 Pengembangan & Kontribusi
+
+Pull request sangat diterima.  
+Untuk perubahan besar, mohon buka issue terlebih dahulu untuk didiskusikan.  
+Silakan tambahkan dokumentasi kode atau komentar untuk mempermudah pengembangan bersama.
+
+---
+
+## 📄 Lisensi
